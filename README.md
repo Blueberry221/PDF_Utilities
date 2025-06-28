@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 You may also need:
 
-* [Ghostscript](https://www.ghostscript.com/) (for compression)
+* [Ghostscript](https://www.ghostscript.com/) (for PDF Compression)
 * [Poppler](http://blog.alivate.com.au/poppler-windows/) (for PDF to image)
 
 ---
